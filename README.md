@@ -27,7 +27,7 @@ DSA · Git · GitHub · Vite · Docker · Postman
 
 ---
 
-[![Skills](https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,tailwind,js,react,nodejs,express,postman,mongodb,php,ps,git,github,mysql,postgresql,wordpress,cypress,jest,react,figma&perline=12)](https://github.com/p-limbachiya)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,tailwind,js,react,redux,nodejs,express,postman,mongodb,php,ps,git,github,postgresql,cypress,jest,figma&perline=11)](https://github.com/p-limbachiya)
 
 ---
 
